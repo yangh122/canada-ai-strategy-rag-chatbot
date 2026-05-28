@@ -85,7 +85,7 @@ OPENAI_API_KEY=sk-xxxx...
 
 # ✅ How to Run the Project
 
-##🚀 Step 0 - run MIE1624_RSS.ipynb under news_ingestion folder
+## 🚀 Step 0 - run MIE1624_RSS.ipynb under news_ingestion folder
 
 ## 🚀 Step 1 — Build the Vectorstore
 ```bash
