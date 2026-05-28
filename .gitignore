@@ -1,0 +1,16 @@
+.env
+.env.local
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+chroma/
+chroma_db/
+vectorstore/
+.vectorstore/
+
+.DS_Store
+Thumbs.db
