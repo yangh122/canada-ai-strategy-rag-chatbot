@@ -20,6 +20,10 @@ The chatbot is designed to help users explore questions such as:
 
 Instead of relying only on the language model’s internal knowledge, the system retrieves relevant external context first, then injects that context into the agent workflow before generating the final answer.
 
+## Demo
+
+![Demo of the AI Innovation & Competitiveness Chatbot](assets/demo.gif)
+
 ---
 
 ## Key Features
